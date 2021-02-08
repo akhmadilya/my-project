@@ -1,0 +1,12 @@
+.about-block img {
+    display: flex;
+    height: 34%;
+    width: 34%;
+    padding-top: 300px;
+    padding-left: 165px;
+}
+
+.about-block p {
+    display: flex;
+    padding-left: 800px;
+}

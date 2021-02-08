@@ -1,0 +1,39 @@
+.line hr {
+    display: flex;
+    margin-top: 0%;
+    color: #e5d0cf;
+    height: 14px;
+}
+
+.header {
+    /* background-color: #ffffff; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 100%;
+    position: absolute;
+}
+
+.logo img {
+    display: flex;
+    padding-left: 43%;
+    justify-content: flex-start;
+    width: 40%;
+    height: 40%;
+}
+
+.navs a {
+    color: #000;
+    display: flex;
+    transition: .7s;
+    font-size: 14px;
+    font-size: bold;
+}
+
+.navs :first-child {
+    color: #9e8786;
+}
+
+.navs a:hover {
+    color: #9e8786;
+}

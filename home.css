@@ -1,0 +1,33 @@
+.home img {
+    display: flex;
+    width: 83%;
+    height: 83%;
+    padding-top: 378px;
+    padding-left: 120px;
+    position: absolute;
+}
+
+.greeting {
+    position: relative;
+    padding-top: 578px;
+    /* padding-left: px; */
+    /* justify-content: center;
+    align-items: center; */
+    line-height: 2.0;
+    text-align: center;
+    text-justify: distribute-all-lines;
+    /* height: min-content; */
+    /* width: min-content; */
+}
+
+.greeting a {
+    color: black;
+}
+
+.welcome {
+    font-size: 42px;
+}
+
+.slogan {
+    font-size: 18px;
+}
